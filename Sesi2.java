@@ -1,7 +1,7 @@
 ﻿import java.util.*;
 import java.lang.Math;
 
-class Program {
+class Sesi2 {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
